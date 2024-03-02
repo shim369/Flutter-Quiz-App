@@ -71,7 +71,7 @@ class MyHomePage extends StatelessWidget {
                     SizedBox(
                         width: double.infinity,
                         height: 50,
-                        child: TextButton(
+                        child: ElevatedButton(
                           onPressed: null,
                           child: Text('A.1'),
                         )
@@ -79,7 +79,7 @@ class MyHomePage extends StatelessWidget {
                     SizedBox(
                       width: double.infinity,
                       height: 50,
-                      child: TextButton(
+                      child: ElevatedButton(
                         onPressed: null,
                         child: Text('A.2'),
                       ),
@@ -87,7 +87,7 @@ class MyHomePage extends StatelessWidget {
                     SizedBox(
                       width: double.infinity,
                       height: 50,
-                      child: TextButton(
+                      child: ElevatedButton(
                         onPressed: null,
                         child: Text('A.3'),
                       ),
@@ -95,7 +95,7 @@ class MyHomePage extends StatelessWidget {
                     SizedBox(
                       width: double.infinity,
                       height: 50,
-                      child: TextButton(
+                      child: ElevatedButton(
                         onPressed: null,
                         child: Text('A.4'),
                       ),
