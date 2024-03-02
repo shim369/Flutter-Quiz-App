@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
           children: [
             Container(
               height: 70,
-              color: Colors.red,
+              color: Colors.brown,
               child: const Center(
                 child: Text(
                   '回答を選択してください',
